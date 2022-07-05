@@ -10,7 +10,7 @@ function SideBar() {
         <span>renda</span>
         <span>OFF</span>
       </div>
-      <Button title='novo lançamento' />
+      <Button title='nova despesa' />
     </header>
   );
 }

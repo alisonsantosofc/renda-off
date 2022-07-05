@@ -7,6 +7,9 @@ function Dashboard() {
   return (
     <div className={styles.container}>
       <SideBar />
+      <div style={{textAlign: 'left', maxWidth: '80%'}}>
+        <h2>Gerenciar suas despesas nunca foi tão fácil.</h2>
+      </div>
     </div>
   );
 }
