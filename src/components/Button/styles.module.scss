@@ -1,0 +1,15 @@
+.container {
+  padding: .5rem 1rem;
+  max-height: 40px;
+  border: none;
+  border-radius: 0.2rem;
+  background-color: var(--primary-color);
+  color: var(--txt-black-color);
+  font-weight: bolder;
+  text-align: center;
+  text-transform: uppercase;
+
+  &:active {
+    opacity: 0.9;
+  }
+}

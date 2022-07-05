@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@400;600;800&display=swap');
+
+:root {
+  --primary-color: #facb32;
+  --white-color: #f0f2f5;
+  --bg-app: #20242b;
+  --bg-sidebar: #2b2f37;
+  --txt-color: #cfd3da;
+  --txt-black-color: #2b2f37;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body, button, a, input {
+  font-family: 'Mukta', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
